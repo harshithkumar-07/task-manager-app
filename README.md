@@ -132,3 +132,7 @@ Password: user123
 
 ### Create Task (Admin only)
 ![Create Task](./screenshots/create-task.png)
+<img width="1916" height="912" alt="login-screen png" src="https://github.com/user-attachments/assets/87dd93b8-2849-4a7b-8480-a7bccc9ba578" />
+<img width="1919" height="922" alt="tasks-admin png" src="https://github.com/user-attachments/assets/e7fcf70b-419b-4c5d-bd12-740134829b42" />
+<img width="1913" height="727" alt="create-task png" src="https://github.com/user-attachments/assets/ddfd8a73-f9f6-4835-aaa5-1b385587ebe7" />
+
